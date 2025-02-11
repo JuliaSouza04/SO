@@ -9,11 +9,11 @@ A **primeira** versão do Windows foi lançada em **1985**, e ao longo dos anos,
 ![image](https://github.com/user-attachments/assets/ee20da8d-13d9-4893-b6dd-c91e7da4aced)
 
 ## Cinco versões importantes do Windows
-- **Windows 95 de 1995**, um dos seus principais destaques foi o Menu Iniciar, a Lixeira e Barras de Tarefas, em 1995 quem quisse comprar teria que desembolsar 230 Reais para ter o Sistema Operatorio
-- **Windowns XP de 2001**, trouxe estabilidade  e uma interface visual mais amigável, foi uma das versões mais populares e duradouras do Windows.
-- **Windows 7 de 2009**, um dos seus principais destaques foi a melhora da  performance e a segurança, com uma interface simplificada e recursos como o Aero Glass, foi amplamente adotado por usuários e empresas.
-- **Windows 10 de 2015**, introduziu a integração com a nuvem, o navegador Microsoft Edge e o retorno do menu Iniciar, uma versão focada em atualização contínua.
-- **Windows 10 de 2021**,  apresentou uma nova interface mais moderna e limpa, além de melhorias em desempenho, suporte a multitarefa e recursos para dispositivos modernos.
+- **Windows 95 de 1995** um dos seus principais destaques foi o Menu Iniciar, a Lixeira e Barras de Tarefas, em 1995 quem quisse comprar teria que desembolsar 230 Reais para ter o Sistema Operatorio
+- **Windowns XP de 2001** trouxe estabilidade  e uma interface visual mais amigável, foi uma das versões mais populares e duradouras do Windows.
+- **Windows 7 de 2009** um dos seus principais destaques foi a melhora da  performance e a segurança, com uma interface simplificada e recursos como o Aero Glass, foi amplamente adotado por usuários e empresas.
+- **Windows 10 de 2015** introduziu a integração com a nuvem, o navegador Microsoft Edge e o retorno do menu Iniciar, uma versão focada em atualização contínua.
+- **Windows 10 de 2021**  apresentou uma nova interface mais moderna e limpa, além de melhorias em desempenho, suporte a multitarefa e recursos para dispositivos modernos.
 ![alt text](image-1.png)
 ## Arquitetura do Windows
 Na Arquietetura do Windowns tem varias camadas como o Modo de Usuário, Interface Grafica, API, Gerenciador de Arquivos, Kernel, Gerenciador de Processos, Gerenciador de memórias, Drivers de Depositivos, Gerenciador de entrada e saida, Segurança de Controle de acessos, Sistema de Rede. 
