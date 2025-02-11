@@ -6,6 +6,8 @@ Em **1950** iniciou a evolução dos sistemas operacionais, porém com sistemas 
  ## Oque é Windows?
  O Windows é um sistema operacional desenvolvido pela Microsoft, ele é um dos **mais populares do mundo** e serve como plataforma para executar programas de computador e interagir com o hardware de um dispositivo, como um PC. O Windows oferece uma interface gráfica que facilita o uso de computadores, com elementos como janelas, ícones, menus e botões.
 A **primeira** versão do Windows foi lançada em **1985**, e ao longo dos anos, o sistema passou por várias atualizações e melhorias, como o Windows 95, Windows XP, Windows 7, Windows 10, e atualmente, o Windows 11. Ele é utilizado tanto por usuários domésticos quanto em ambientes corporativos, e é compatível com uma grande variedade de softwares e periféricos
+![image](https://github.com/user-attachments/assets/ee20da8d-13d9-4893-b6dd-c91e7da4aced)
+
 ## Cinco versões importantes do Windows
 - **Windows 95 de 1995**, um dos seus principais destaques foi o Menu Iniciar, a Lixeira e Barras de Tarefas, em 1995 quem quisse comprar teria que desembolsar 230 Reais para ter o Sistema Operatorio
 - **Windowns XP de 2001**, trouxe estabilidade  e uma interface visual mais amigável, foi uma das versões mais populares e duradouras do Windows.
